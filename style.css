@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+header{
+    background-color: gold;
+}
+.A{
+    color:blue;
+}
+.css{
+    background-color: burlywood;
+    width: 10px;
+    padding: 15px;
+    border-radius: 250px;
+    text-decoration: none;
+    box-shadow: 10px 10px 0 0 yellow;
+    color: white;
+}
+footer{
+    padding: 60px;
+    background-color: #5FD3B3
+;
+    border-radius: 50px;
+    color: #FF5C00;
+}
+.dss{
+    position: fixed;
+top: 30px;
+right:100px ;
+padding:20px ;
+border-radius: 250px;
+background-color: #A101A6;
+color: #5FD3B3
+}
+.dss:hover{
+    box-shadow: 10px 10px orangered;
+}
